@@ -1,4 +1,4 @@
-# Handman
+# Hangman
 Deutsches Hangman:
 Wie man spielt:
 ——————————————————————
